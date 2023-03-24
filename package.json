@@ -1,0 +1,11 @@
+{
+  "name": "trabajo1uwu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ci": "node ci.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
